@@ -53,7 +53,7 @@ I have no experience in IT or development of serious projects.
 ## Education
 
 
-* Gomel State Technical University named after BY. Sukhoi, power engineer, power supply of industrial enterprises
+Gomel State Technical University named after BY. Sukhoi, power engineer, power supply of industrial enterprises
 
 
 ## English
