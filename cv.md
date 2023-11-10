@@ -1,5 +1,7 @@
 # **Sergey Yurievich Pivovarov**
 
+![My photo](my-photo.jpg)
+
 ## Contacts
 
 - Location: Mozyr, Belarus
